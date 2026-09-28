@@ -1,0 +1,30 @@
+{
+  "version": "v1",
+  "packs": [
+    {
+      "code": "zh",
+      "version": "v1",
+      "assets": [
+        {
+          "path": "zh.cime",
+          "url": "https://github.com/dayifulalala-del/clink-zh-probe-55m/releases/download/v1/zh--zh.cime",
+          "sha256": "79f58801989972681b5bba5095cb7ada7a72626514e4b4bb9adc2f6f447501eb",
+          "byteCount": 9384271
+        },
+        {
+          "path": "zh.clex",
+          "url": "https://github.com/dayifulalala-del/clink-zh-probe-55m/releases/download/v1/zh--zh.clex",
+          "sha256": "f8870e1dba9dff54ec85a893eea74de3c09d9a910c0df9ee6acf34e97e52f908",
+          "byteCount": 1082668
+        },
+        {
+          "path": "zh.cngm",
+          "url": "https://github.com/dayifulalala-del/clink-zh-probe-55m/releases/download/v1/zh--zh.cngm",
+          "sha256": "ae4ad15926231e968a4e0a4000ecc9c10a2717a824d4d7fdb807583eca1585e5",
+          "byteCount": 808743
+        }
+      ],
+      "name": "中文万象 Lite · 内存探测 55M"
+    }
+  ]
+}
